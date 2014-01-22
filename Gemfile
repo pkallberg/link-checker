@@ -12,5 +12,5 @@ group(:test, :development) do
   gem "fakeweb", "~> 1.3.0"
   gem "yard", "~> 0.8.2.1"
   gem "redcarpet", "~> 2.1.1"
-  gem "debugger"
+#  gem "debugger"
 end
